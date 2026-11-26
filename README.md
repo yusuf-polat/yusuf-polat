@@ -16,31 +16,32 @@
 
 ## 🎮 Live on Google Play
 
-17 games and apps designed, built and shipped end to end — Unity (C#) clients, Rust / Node.js backends, AdMob, Firebase Analytics, Play Games Services and localization into 10+ languages.
+18 games and apps designed, built and shipped end to end — Unity (C#) clients, Rust / Node.js backends, AdMob, Firebase Analytics, Play Games Services and localization into 10+ languages.
 
 <table>
   <tr>
+    <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.stitchway"><img src="assets/games/stitchway.png" width="64" height="64" alt="Stitchway"/><br/><sub><b>Stitchway</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.sumstones"><img src="assets/games/sumstones.png" width="64" height="64" alt="Sum Stones"/><br/><sub><b>Sum Stones</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.honeyloop"><img src="assets/games/honeyloop.png" width="64" height="64" alt="Honey Loop"/><br/><sub><b>Honey Loop</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.bugrun"><img src="assets/games/bugrun.png" width="64" height="64" alt="Bug Run"/><br/><sub><b>Bug Run</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.bugfeast"><img src="assets/games/bugfeast.png" width="64" height="64" alt="Bug Feast"/><br/><sub><b>Bug Feast</b></sub></a></td>
-    <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.coloratelier"><img src="assets/games/coloratelier.png" width="64" height="64" alt="Color Atelier"/><br/><sub><b>Color Atelier</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.coloratelier"><img src="assets/games/coloratelier.png" width="64" height="64" alt="Color Atelier"/><br/><sub><b>Color Atelier</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.doubletail"><img src="assets/games/doubletail.png" width="64" height="64" alt="Doubletail"/><br/><sub><b>Doubletail</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.repcam"><img src="assets/games/repcam.png" width="64" height="64" alt="RepCam"/><br/><sub><b>RepCam</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.cubeline"><img src="assets/games/cubeline.png" width="64" height="64" alt="Cubeline"/><br/><sub><b>Cubeline</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.skyhop"><img src="assets/games/skyhop.png" width="64" height="64" alt="Skyhop"/><br/><sub><b>Skyhop</b></sub></a></td>
-    <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.voxelpaint"><img src="assets/games/voxelpaint.png" width="64" height="64" alt="Voxel Paint"/><br/><sub><b>Voxel Paint</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.voxelpaint"><img src="assets/games/voxelpaint.png" width="64" height="64" alt="Voxel Paint"/><br/><sub><b>Voxel Paint</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.foxraid"><img src="assets/games/foxraid.png" width="64" height="64" alt="Fox Raid"/><br/><sub><b>Fox Raid</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.teagarden"><img src="assets/games/teagarden.png" width="64" height="64" alt="Tea Garden"/><br/><sub><b>Tea Garden</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.fartrafters"><img src="assets/games/fartrafters.png" width="64" height="64" alt="Fart Rafters"/><br/><sub><b>Fart Rafters</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.catarena"><img src="assets/games/catarena.png" width="64" height="64" alt="Kedi Fight"/><br/><sub><b>Kedi Fight</b></sub></a></td>
-    <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.skyforge"><img src="assets/games/skyforge.png" width="64" height="64" alt="Skyforge"/><br/><sub><b>Skyforge</b></sub></a></td>
   </tr>
   <tr>
+    <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.skyforge"><img src="assets/games/skyforge.png" width="64" height="64" alt="Skyforge"/><br/><sub><b>Skyforge</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.izlekazan"><img src="assets/games/izlekazan.png" width="64" height="64" alt="İzleKazan"/><br/><sub><b>İzleKazan</b></sub></a></td>
     <td align="center" width="20%"><a href="https://play.google.com/store/apps/details?id=com.deltalo.ibanmatik"><img src="assets/games/ibanmatik.png" width="64" height="64" alt="IBAN Matik"/><br/><sub><b>IBAN Matik</b></sub></a></td>
   </tr>
